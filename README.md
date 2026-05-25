@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Saurabh Singh Dhami  <br><br>🎓 Undergraduate Student at Bennett University  <br>🤖 Learning Artificial Intelligence & Machine Learning  <br>🌐 Exploring Web Development   <br>💡 Passionate about building real-world projects<br>🔭 Currently working on AI & Web-based projects<br>👯 Open to collaborate on AI, ML ,DS& Full Stack projects<br>
+Saurabh Singh Dhami  <br><br>
+B.Tech Student at Bennett University <br>Aspiring AI/ML Engineer — exploring intelligent systems and real-world machine learning <br>Full-Stack Web Developer working with React, Next.js, Node.js & Python<br>Passionate about building products where AI meets the web<br>Currently working on AI-powered web projects<br>Always open to collaborating on AI, ML, Data Science & Full-Stack projects<br><br>Constantly learning, building, and growing<br>
 
 
 ## 🌐 Socials:
