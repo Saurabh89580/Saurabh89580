@@ -39,9 +39,8 @@ I'm a full-stack developer and data science enthusiast who enjoys turning ideas 
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Project One** | One line on what it does and the problem it solves. | `Next.js` `Node` `Postgres` | [Repo](#) · [Live](#) |
-| **Project Two** | What makes it interesting — a metric or feature that stands out. | `Python` `scikit-learn` `Streamlit` | [Repo](#) · [Live](#) |
-| **Project Three** | Keep it short and outcome-focused. | `React` `Express` `MongoDB` | [Repo](#) · [Live](#) |
+| **AIFY** | One line on what it does and the problem it solves. | `Next.js` `TypeScript` `PostgreSQL` | [Repo](https://github.com/Saurabh89580/AIFY) · [Live](https://aify-seven.vercel.app/login) |
+| **Alzhiemer-Detection-Model** | What makes it interesting — a metric or feature that stands out. | `Python` `RES-Net18` `Streamlit` | [Repo](https://github.com/Saurabh89580/Alzhiemer-Detection-Model)  |
 
 <!-- Tip: You can also pin these repos on your profile (Customize your pins) so they show up as cards above this README. -->
 
@@ -99,23 +98,7 @@ I'm a full-stack developer and data science enthusiast who enjoys turning ideas 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh89580&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Saurabh89580&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh89580&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saurabh89580&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saurabh89580&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Saurabh89580&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh89580&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Saurabh89580&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" /> </p>
 
 ## 🤝 Let's Connect
 
