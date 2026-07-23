@@ -98,7 +98,7 @@ I'm a full-stack developer and data science enthusiast who enjoys turning ideas 
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saurabh89580&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Saurabh89580&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh89580&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Saurabh89580&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Saurabh89580&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> 
 
 ## 🤝 Let's Connect
 
