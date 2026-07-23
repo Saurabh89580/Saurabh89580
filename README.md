@@ -35,7 +35,6 @@ I'm a full-stack developer and data science enthusiast who enjoys turning ideas 
 
 ## 🚀 Featured Projects
 
-> _Replace the placeholders below with your best 2–3 repos. Recruiters look here first — lead with impact, not just tech._
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
