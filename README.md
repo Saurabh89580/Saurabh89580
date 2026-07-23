@@ -38,8 +38,8 @@ I'm a full-stack developer and data science enthusiast who enjoys turning ideas 
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **AIFY** | One line on what it does and the problem it solves. | `Next.js` `TypeScript` `PostgreSQL` | [Repo](https://github.com/Saurabh89580/AIFY) · [Live](https://aify-seven.vercel.app/login) |
-| **Alzhiemer-Detection-Model** | What makes it interesting — a metric or feature that stands out. | `Python` `RES-Net18` `Streamlit` | [Repo](https://github.com/Saurabh89580/Alzhiemer-Detection-Model)  |
+| **AIFY** | AIFY is a full-stack AI platform that enables users to build, visualize, and run intelligent workflows. | `Next.js` `TypeScript` `PostgreSQL` | [Repo](https://github.com/Saurabh89580/AIFY) · [Live](https://aify-seven.vercel.app/login) |
+| **Alzhiemer-Detection-Model** | A complete end-to-end deep learning pipeline for classifying structural MRI brain scans into four Alzheimer’s disease categories: Non-Demented, Very Mild Dementia, Mild Dementia, and Moderate Dementia. | `Python` `RES-Net18` `Streamlit` | [Repo](https://github.com/Saurabh89580/Alzhiemer-Detection-Model)  |
 
 <!-- Tip: You can also pin these repos on your profile (Customize your pins) so they show up as cards above this README. -->
 
